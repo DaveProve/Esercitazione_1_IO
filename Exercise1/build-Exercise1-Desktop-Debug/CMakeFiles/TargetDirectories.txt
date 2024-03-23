@@ -1,4 +1,0 @@
-C:/Users/davep/PCS2024_Exercises/Esercitazione_1_IO/build-Exercise1-Desktop-Debug/CMakeFiles/SumValues.dir
-C:/Users/davep/PCS2024_Exercises/Esercitazione_1_IO/build-Exercise1-Desktop-Debug/CMakeFiles/RIPASSO.dir
-C:/Users/davep/PCS2024_Exercises/Esercitazione_1_IO/build-Exercise1-Desktop-Debug/CMakeFiles/edit_cache.dir
-C:/Users/davep/PCS2024_Exercises/Esercitazione_1_IO/build-Exercise1-Desktop-Debug/CMakeFiles/rebuild_cache.dir
